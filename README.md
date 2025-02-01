@@ -18,7 +18,7 @@ A Django-based FAQ system with multilingual support and caching.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sushilsharma8/faq_project.git
+   https://github.com/pat749/BharatFd-Backend-.git
    cd faq_project
    ```
 
@@ -95,16 +95,6 @@ To run the tests, use the following command:
 python manage.py test faq
 ```
 
-## Screenshots
-Admin Panel:
-![Admin Panel](screenshots/admin1.png)
-![Admin Panel](screenshots/admin2.png)
-![Admin Panel](screenshots/admin3.png)
-
-FAQ List:
-![FAQ List](screenshots/faq_list.png)
-![FAQ List Hindi](screenshots/faq_list_hindi.png)
-![FAQ List Bengali](screenshots/faq_list_bengali.png)
 
 ## Docker Commands
 ### Start Redis
